@@ -1,0 +1,11 @@
+
+data/
+napcat/config/
+ntqq/
+
+.env
+.env.*
+!.env.example
+
+.DS_Store
+Thumbs.db
